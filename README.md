@@ -7,7 +7,7 @@
 Building modern web applications using **Laravel**, **Next.js**, and **WordPress**.
 
 </div>
-
+<!-- 
 ---
 
 # 👨‍💻 About Me
@@ -101,4 +101,4 @@ Chrome extension that analyzes Codeforces group contests and exports participant
 # 📫 Contact
 
 - 📧 Email: ahmedmagdy30003@gmail.com
-- 💼 LinkedIn: https://linkedin.com/in/ahmedmagdyoff
+- 💼 LinkedIn: https://linkedin.com/in/ahmedmagdyoff -->
