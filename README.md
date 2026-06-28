@@ -60,37 +60,31 @@ Building modern web applications using **Laravel**, **Next.js**, and **WordPress
 
 ## 📚 VocaVault
 
-A modern English vocabulary learning platform featuring user authentication, categories, smart organization, and automated deployment.
-
-- Laravel API
-- Next.js Frontend
-- MySQL
-- GitHub Actions
-- VPS Deployment
+An open-source platform for learning English vocabulary through videos.
 
 ---
 
 ## 🎓 Thebes ICPC
 
-Official website for the Thebes ICPC Community.
+Official website for Thebes ICPC Community.
 
 ---
 
 ## 💍 Invitation
 
-Elegant digital invitation website with countdown, gallery, audio, and location integration.
+A modern and elegant digital invitation website with countdown, gallery, audio, and location.
 
 ---
 
 ## 🌿 Qutoof Academy
 
-Modern responsive website introducing educational programs, academy activities, and contact information.
+Modern landing page for an online Quran and skills academy with gallery, programs, and contact sections.
 
 ---
 
 ## 📊 Codeforces Counter
 
-Chrome extension that analyzes Codeforces group contests and exports solved problems statistics as CSV.
+Chrome extension that analyzes Codeforces group contests and exports participants' solved problems statistics as CSV.
 
 ---
 
