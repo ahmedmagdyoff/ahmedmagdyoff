@@ -1,4 +1,4 @@
-<!-- <div align="center">
+<div align="center">
 
 # Hi, I'm Ahmed Magdy 👋
 
@@ -7,7 +7,7 @@
 Building modern web applications using **Laravel**, **Next.js**, and **WordPress**.
 
 </div>
-
+<!-- 
 ---
 
 # 👨‍💻 About Me
